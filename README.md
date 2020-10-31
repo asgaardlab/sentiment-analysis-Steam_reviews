@@ -4,7 +4,7 @@
 
 This repository temporarily contains data from our study on the causes for misclassifications of Steam game reviews.
 
-The data consists of URLs of game reviews from Steam with the associated sentiment and it is available in three formats:
+The data consists of a sample of 100K URLs of game reviews from Steam with the associated sentiment and it is available in three formats:
 
 * CSV
 * XLSX
