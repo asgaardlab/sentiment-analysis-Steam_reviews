@@ -10,7 +10,7 @@ The data consists of URLs of game reviews from Steam with the associated sentime
 * XLSX
 * TXT
 
-The sentiment of each reviews was computed by three different sentiment classifiers:
+The sentiment of each review was computed by three different sentiment classifiers:
 
 * NLTK
 * SentiStrength
